@@ -1,0 +1,16 @@
+{
+  "name": "grunt-mocha-302",
+  "version": "1.0.0",
+  "description": "Example that shows the latest version of grunt-mocha-test is broken by mocha 3. Works on mocha 2.5.3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt spec"
+  },
+  "author": "Richard Lay",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-mocha-test": "0.12.7",
+    "mocha": "3.0.2"
+  }
+}
